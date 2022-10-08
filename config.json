@@ -1,0 +1,30 @@
+{
+    "log":{
+        "loglevel":"warning"
+    },
+    "inbound":{
+        "protocol":"vmess",
+        "listen":"127.0.0.1",
+        "port":4332,
+        "settings":{
+            "clients":[
+                {
+                    "id":"b3342183-762e-4c22-a190-475c845078b4",
+                    "level":1,
+                    "alterId":0
+                }
+            ]
+        },
+        "streamSettings":{
+            "network":"ws",
+            "wsSettings":{
+                "path":"/img"
+            }
+        }
+    },
+    "outbound":{
+        "protocol":"freedom",
+        "settings":{
+        }
+    }
+}

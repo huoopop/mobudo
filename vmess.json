@@ -1,0 +1,13 @@
+{
+    "v": "2",
+    "ps": "studynet.run.goorm.io",
+    "add": "studynet.run.goorm.io",
+    "port": "443",
+    "id": "b3342183-762e-4c22-a190-475c845078b4",
+    "aid": "64",            
+    "net": "ws",            
+    "type": "auto",         
+    "host": "",         
+    "path": "/img",   
+    "tls": "tls"            
+}

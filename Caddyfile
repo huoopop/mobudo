@@ -1,0 +1,10 @@
+http://0.0.0.0:80
+{
+	root /wwwroot
+	index index.html
+	timeouts none
+	proxy /img localhost:4332 {
+		websocket
+		header_upstream -Origin
+	}
+}
