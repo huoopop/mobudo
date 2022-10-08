@@ -4,7 +4,7 @@
     "add": "studynet.run.goorm.io",
     "port": "443",
     "id": "$0c34f6f6-8709-484c-8441-a6f0fad48df0",
-    "aid": "64",            
+    "aid": "0",            
     "net": "ws",            
     "type": "auto",         
     "host": "",         
